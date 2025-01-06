@@ -65111,7 +65111,7 @@ const ire = (t) => {
                       children: [
                         P.jsxs("span", {
                           id: "subPrice",
-                          children: ["Submission price: ", Ue, " TONE"],
+                          children: ["Submission price: ", Ue, " MAI"],
                         }),
                         P.jsx("span", {
                           children:
